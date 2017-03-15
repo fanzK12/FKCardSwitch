@@ -13,6 +13,22 @@
 		187DF65C1E78E80C00DB0241 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187DF65A1E78E80C00DB0241 /* Main.storyboard */; };
 		187DF65E1E78E80C00DB0241 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 187DF65D1E78E80C00DB0241 /* Assets.xcassets */; };
 		187DF6611E78E80C00DB0241 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187DF65F1E78E80C00DB0241 /* LaunchScreen.storyboard */; };
+		187DF6741E78EADA00DB0241 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF6691E78EADA00DB0241 /* 1.jpg */; };
+		187DF6751E78EADA00DB0241 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF66A1E78EADA00DB0241 /* 10.jpg */; };
+		187DF6761E78EADA00DB0241 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF66B1E78EADA00DB0241 /* 11.jpg */; };
+		187DF6771E78EADA00DB0241 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF66C1E78EADA00DB0241 /* 2.jpg */; };
+		187DF6781E78EADA00DB0241 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF66D1E78EADA00DB0241 /* 3.jpg */; };
+		187DF6791E78EADB00DB0241 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF66E1E78EADA00DB0241 /* 4.jpg */; };
+		187DF67A1E78EADB00DB0241 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF66F1E78EADA00DB0241 /* 5.jpg */; };
+		187DF67B1E78EADB00DB0241 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF6701E78EADA00DB0241 /* 6.jpg */; };
+		187DF67C1E78EADB00DB0241 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF6711E78EADA00DB0241 /* 7.jpg */; };
+		187DF67D1E78EADB00DB0241 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF6721E78EADA00DB0241 /* 8.jpg */; };
+		187DF67E1E78EADB00DB0241 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187DF6731E78EADA00DB0241 /* 9.jpg */; };
+		187DF6811E78EB1F00DB0241 /* DataPropertyList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 187DF6801E78EB1F00DB0241 /* DataPropertyList.plist */; };
+		187DF6851E79156200DB0241 /* FKCardModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 187DF6841E79156200DB0241 /* FKCardModel.m */; };
+		187DF6881E7915E800DB0241 /* FKCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 187DF6871E7915E800DB0241 /* FKCardCell.m */; };
+		187DF68B1E7919A700DB0241 /* FKCardSwitchFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 187DF68A1E7919A700DB0241 /* FKCardSwitchFlowLayout.m */; };
+		187DF68E1E791DBF00DB0241 /* FKCardSwitchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 187DF68D1E791DBF00DB0241 /* FKCardSwitchView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +42,26 @@
 		187DF65D1E78E80C00DB0241 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		187DF6601E78E80C00DB0241 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		187DF6621E78E80C00DB0241 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		187DF6691E78EADA00DB0241 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		187DF66A1E78EADA00DB0241 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		187DF66B1E78EADA00DB0241 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		187DF66C1E78EADA00DB0241 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		187DF66D1E78EADA00DB0241 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		187DF66E1E78EADA00DB0241 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		187DF66F1E78EADA00DB0241 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		187DF6701E78EADA00DB0241 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		187DF6711E78EADA00DB0241 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		187DF6721E78EADA00DB0241 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		187DF6731E78EADA00DB0241 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		187DF6801E78EB1F00DB0241 /* DataPropertyList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DataPropertyList.plist; sourceTree = "<group>"; };
+		187DF6831E79156200DB0241 /* FKCardModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FKCardModel.h; sourceTree = "<group>"; };
+		187DF6841E79156200DB0241 /* FKCardModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FKCardModel.m; sourceTree = "<group>"; };
+		187DF6861E7915E800DB0241 /* FKCardCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FKCardCell.h; sourceTree = "<group>"; };
+		187DF6871E7915E800DB0241 /* FKCardCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FKCardCell.m; sourceTree = "<group>"; };
+		187DF6891E7919A700DB0241 /* FKCardSwitchFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FKCardSwitchFlowLayout.h; sourceTree = "<group>"; };
+		187DF68A1E7919A700DB0241 /* FKCardSwitchFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FKCardSwitchFlowLayout.m; sourceTree = "<group>"; };
+		187DF68C1E791DBF00DB0241 /* FKCardSwitchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FKCardSwitchView.h; sourceTree = "<group>"; };
+		187DF68D1E791DBF00DB0241 /* FKCardSwitchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FKCardSwitchView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +94,7 @@
 		187DF6501E78E80C00DB0241 /* FKSwitchCardsDemo */ = {
 			isa = PBXGroup;
 			children = (
+				187DF6821E78EC5A00DB0241 /* FKCardTool */,
 				187DF6541E78E80C00DB0241 /* AppDelegate.h */,
 				187DF6551E78E80C00DB0241 /* AppDelegate.m */,
 				187DF6571E78E80C00DB0241 /* ViewController.h */,
@@ -66,6 +103,8 @@
 				187DF65D1E78E80C00DB0241 /* Assets.xcassets */,
 				187DF65F1E78E80C00DB0241 /* LaunchScreen.storyboard */,
 				187DF6621E78E80C00DB0241 /* Info.plist */,
+				187DF67F1E78EB1500DB0241 /* Resource */,
+				187DF6681E78EADA00DB0241 /* Image */,
 				187DF6511E78E80C00DB0241 /* Supporting Files */,
 			);
 			path = FKSwitchCardsDemo;
@@ -77,6 +116,47 @@
 				187DF6521E78E80C00DB0241 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		187DF6681E78EADA00DB0241 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				187DF6691E78EADA00DB0241 /* 1.jpg */,
+				187DF66A1E78EADA00DB0241 /* 10.jpg */,
+				187DF66B1E78EADA00DB0241 /* 11.jpg */,
+				187DF66C1E78EADA00DB0241 /* 2.jpg */,
+				187DF66D1E78EADA00DB0241 /* 3.jpg */,
+				187DF66E1E78EADA00DB0241 /* 4.jpg */,
+				187DF66F1E78EADA00DB0241 /* 5.jpg */,
+				187DF6701E78EADA00DB0241 /* 6.jpg */,
+				187DF6711E78EADA00DB0241 /* 7.jpg */,
+				187DF6721E78EADA00DB0241 /* 8.jpg */,
+				187DF6731E78EADA00DB0241 /* 9.jpg */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
+		187DF67F1E78EB1500DB0241 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				187DF6801E78EB1F00DB0241 /* DataPropertyList.plist */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		187DF6821E78EC5A00DB0241 /* FKCardTool */ = {
+			isa = PBXGroup;
+			children = (
+				187DF6831E79156200DB0241 /* FKCardModel.h */,
+				187DF6841E79156200DB0241 /* FKCardModel.m */,
+				187DF6861E7915E800DB0241 /* FKCardCell.h */,
+				187DF6871E7915E800DB0241 /* FKCardCell.m */,
+				187DF6891E7919A700DB0241 /* FKCardSwitchFlowLayout.h */,
+				187DF68A1E7919A700DB0241 /* FKCardSwitchFlowLayout.m */,
+				187DF68C1E791DBF00DB0241 /* FKCardSwitchView.h */,
+				187DF68D1E791DBF00DB0241 /* FKCardSwitchView.m */,
+			);
+			path = FKCardTool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +218,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				187DF67B1E78EADB00DB0241 /* 6.jpg in Resources */,
+				187DF6811E78EB1F00DB0241 /* DataPropertyList.plist in Resources */,
+				187DF6751E78EADA00DB0241 /* 10.jpg in Resources */,
+				187DF67A1E78EADB00DB0241 /* 5.jpg in Resources */,
+				187DF67C1E78EADB00DB0241 /* 7.jpg in Resources */,
 				187DF6611E78E80C00DB0241 /* LaunchScreen.storyboard in Resources */,
+				187DF67D1E78EADB00DB0241 /* 8.jpg in Resources */,
+				187DF6771E78EADA00DB0241 /* 2.jpg in Resources */,
+				187DF6741E78EADA00DB0241 /* 1.jpg in Resources */,
+				187DF6761E78EADA00DB0241 /* 11.jpg in Resources */,
+				187DF67E1E78EADB00DB0241 /* 9.jpg in Resources */,
 				187DF65E1E78E80C00DB0241 /* Assets.xcassets in Resources */,
+				187DF6791E78EADB00DB0241 /* 4.jpg in Resources */,
 				187DF65C1E78E80C00DB0241 /* Main.storyboard in Resources */,
+				187DF6781E78EADA00DB0241 /* 3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,8 +243,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				187DF6881E7915E800DB0241 /* FKCardCell.m in Sources */,
+				187DF6851E79156200DB0241 /* FKCardModel.m in Sources */,
 				187DF6591E78E80C00DB0241 /* ViewController.m in Sources */,
 				187DF6561E78E80C00DB0241 /* AppDelegate.m in Sources */,
+				187DF68E1E791DBF00DB0241 /* FKCardSwitchView.m in Sources */,
+				187DF68B1E7919A700DB0241 /* FKCardSwitchFlowLayout.m in Sources */,
 				187DF6531E78E80C00DB0241 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
